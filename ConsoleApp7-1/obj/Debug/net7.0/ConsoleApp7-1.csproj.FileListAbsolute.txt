@@ -1,0 +1,15 @@
+C:\Users\wjddm\Nappy\RiderProject\ThisIsCSharp\ConsoleApp2-1\ConsoleApp7-1\bin\Debug\net7.0\ConsoleApp7-1.exe
+C:\Users\wjddm\Nappy\RiderProject\ThisIsCSharp\ConsoleApp2-1\ConsoleApp7-1\bin\Debug\net7.0\ConsoleApp7-1.deps.json
+C:\Users\wjddm\Nappy\RiderProject\ThisIsCSharp\ConsoleApp2-1\ConsoleApp7-1\bin\Debug\net7.0\ConsoleApp7-1.runtimeconfig.json
+C:\Users\wjddm\Nappy\RiderProject\ThisIsCSharp\ConsoleApp2-1\ConsoleApp7-1\bin\Debug\net7.0\ConsoleApp7-1.dll
+C:\Users\wjddm\Nappy\RiderProject\ThisIsCSharp\ConsoleApp2-1\ConsoleApp7-1\bin\Debug\net7.0\ConsoleApp7-1.pdb
+C:\Users\wjddm\Nappy\RiderProject\ThisIsCSharp\ConsoleApp2-1\ConsoleApp7-1\obj\Debug\net7.0\ConsoleApp7-1.csproj.AssemblyReference.cache
+C:\Users\wjddm\Nappy\RiderProject\ThisIsCSharp\ConsoleApp2-1\ConsoleApp7-1\obj\Debug\net7.0\ConsoleApp7-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wjddm\Nappy\RiderProject\ThisIsCSharp\ConsoleApp2-1\ConsoleApp7-1\obj\Debug\net7.0\ConsoleApp7-1.AssemblyInfoInputs.cache
+C:\Users\wjddm\Nappy\RiderProject\ThisIsCSharp\ConsoleApp2-1\ConsoleApp7-1\obj\Debug\net7.0\ConsoleApp7-1.AssemblyInfo.cs
+C:\Users\wjddm\Nappy\RiderProject\ThisIsCSharp\ConsoleApp2-1\ConsoleApp7-1\obj\Debug\net7.0\ConsoleApp7-1.csproj.CoreCompileInputs.cache
+C:\Users\wjddm\Nappy\RiderProject\ThisIsCSharp\ConsoleApp2-1\ConsoleApp7-1\obj\Debug\net7.0\ConsoleApp7-1.dll
+C:\Users\wjddm\Nappy\RiderProject\ThisIsCSharp\ConsoleApp2-1\ConsoleApp7-1\obj\Debug\net7.0\refint\ConsoleApp7-1.dll
+C:\Users\wjddm\Nappy\RiderProject\ThisIsCSharp\ConsoleApp2-1\ConsoleApp7-1\obj\Debug\net7.0\ConsoleApp7-1.pdb
+C:\Users\wjddm\Nappy\RiderProject\ThisIsCSharp\ConsoleApp2-1\ConsoleApp7-1\obj\Debug\net7.0\ConsoleApp7-1.genruntimeconfig.cache
+C:\Users\wjddm\Nappy\RiderProject\ThisIsCSharp\ConsoleApp2-1\ConsoleApp7-1\obj\Debug\net7.0\ref\ConsoleApp7-1.dll

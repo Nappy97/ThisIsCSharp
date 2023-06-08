@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "egLAHJhmVVFeVPu+Mq4jKXI+GKYh8CTjX3VG/qxPZsO4bxkBnUMt4LREDwQ0SJmCh1ElhG455CCcCMgguRlLrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wjddm\\Nappy\\RiderProject\\ThisIsCSharp\\ConsoleApp2-1\\ConsoleApp7-17\\ConsoleApp7-17.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wjddm\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
