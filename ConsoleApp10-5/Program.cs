@@ -44,5 +44,4 @@
 
         Console.WriteLine();
     }
-    344P
 }
