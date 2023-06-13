@@ -1,0 +1,21 @@
+﻿class MainApp
+{
+    static void Main(string[] args)
+    {
+        Action act1 = () => Console.Write("Action()");
+        act1();
+
+        var result = 0;
+        Action<int> act2 = x => result = x * x;
+
+        act2(3);
+        Console.WriteLine($"result : {result}");
+
+        Action<double, double> act3 = (x, y) =>
+        {
+            double pi = x / y;
+            Console.WriteLine($"Action<T1, T2>({x}, {y}) : {pi}");
+        };
+        act3(22.0, 7.0);
+    }
+}
