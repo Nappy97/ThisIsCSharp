@@ -8,4 +8,15 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\ConsoleApp17-1\ConsoleApp17-1.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="ExcelLibrary" Version="1.2011.7.31" />
+      <PackageReference Include="Microsoft.Office.Excel" Version="14.0.4760.1000" />
+      <PackageReference Include="Microsoft.Office.Interop.Excel" Version="15.0.4795.1001" />
+      <PackageReference Include="ThammimTech.Microsoft.Office.Core" Version="15.0.0" />
+    </ItemGroup>
+
 </Project>
